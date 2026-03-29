@@ -3,7 +3,7 @@
 using namespace std;
 
 struct NodeS {
-    string nama;
+    string nama; //hhyfhhy
     string nim;
     NodeS* next;
 };
